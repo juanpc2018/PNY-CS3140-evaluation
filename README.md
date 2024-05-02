@@ -19,4 +19,7 @@ also works directly to Motherboard PCIe. </br>
 
 something got damaged, but Not a total damage. </br>
 external USB case / RTL9210 controller has No problem with Higher efficiency drives: Sabrent Rocket and Samsung Pro </br>
-![Screenshot_20240502_174502](https://github.com/juanpc2018/PNY-CS3140-evaluation/assets/33388902/9284acb4-74fc-457e-b91d-49919567c081)
+![Screenshot_20240502_174502](https://github.com/juanpc2018/PNY-CS3140-evaluation/assets/33388902/9284acb4-74fc-457e-b91d-49919567c081) </br>
+![Screenshot_20240502_171524](https://github.com/juanpc2018/PNY-CS3140-evaluation/assets/33388902/5a4d29fb-c6d8-491d-9462-7dc52044547e) </br>
+![Screenshot_20240502_171415](https://github.com/juanpc2018/PNY-CS3140-evaluation/assets/33388902/d8038655-2ed6-488e-9383-5ab2733cf05f) </br>
+
