@@ -19,7 +19,3 @@ also works directly to Motherboard PCIe. </br>
 
 something got damaged, but Not a total damage. </br>
 external USB case / RTL9210 controller has No problem with Higher efficiency drives: Sabrent Rocket and Samsung Pro </br>
-
-IF you live outside USA or EU, forget about the warranty, you lost the money. </br>
-
-
