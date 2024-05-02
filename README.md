@@ -1,7 +1,7 @@
 # PNY-CS3140-evaluation
 
 M280CS31402TB-RB </br>
-according to [TomsHardware](https://www.tomshardware.com/reviews/pny-xlr8-cs3140-ssd-review/2) drive has a low power efficiency. </br>
+according to [TomsHardware](https://www.tomshardware.com/reviews/pny-xlr8-cs3140-ssd-review/2) 2TB drive has a low power efficiency. </br>
 Low Power Efficiency 300MB/s per Watt = more heat vs. good drives 500MB/s Watt. </br>
 
 Big Files = Long Write Times = More Heat. </br>
