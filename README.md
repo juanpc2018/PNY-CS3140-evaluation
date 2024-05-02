@@ -16,7 +16,7 @@ BUT... when connected directly to PCIe with a cheap adapter [startech PEX4M2E1](
 CS3140 "works", pass all tests at 1400MB/s using [Thunderbolt2](https://en.wikipedia.org/wiki/Thunderbolt_(interface)#Thunderbolt_2) [eGpu](https://egpu.io/best-egpu-buyers-guide/) external case </br>
 also works directly to Motherboard PCIe. </br>
 
-something got damaged when overheated, but Not a total damage. </br>
+something got damaged, but Not a total damage. </br>
 external USB case / RTL9210 controller has No problem with Higher efficiency drives: Sabrent Rocket and Samsung Pro </br>
 
 IF you live outside USA or EU, forget about the warranty, you lost the money. </br>
