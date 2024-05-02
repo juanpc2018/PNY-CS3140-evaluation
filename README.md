@@ -12,8 +12,8 @@ Longer Write Times = More Heat. </br>
 
 Drive Failed, but was a strange failure. </br>
 stops being detected by the RTL9210 controller IC. </br>
-BUt... when connected directly to PCIe with a cheap adapter [startech PEX4M2E1](https://www.startech.com/en-us/hdd/pex4m2e1)  </br>
-CS3140 "works", pass all tests at 1400MB/s using [Thunderbolt2](https://en.wikipedia.org/wiki/Thunderbolt_(interface)#Thunderbolt_2) external case </br>
+BUT... when connected directly to PCIe with a cheap adapter [startech PEX4M2E1](https://www.startech.com/en-us/hdd/pex4m2e1)  </br>
+CS3140 "works", pass all tests at 1400MB/s using [Thunderbolt2](https://en.wikipedia.org/wiki/Thunderbolt_(interface)#Thunderbolt_2) [eGpu](https://egpu.io/best-egpu-buyers-guide/) external case </br>
 also works directly to Motherboard PCIe. </br>
 
 something got damaged, but Not a total damage. </br>
