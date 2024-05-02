@@ -17,6 +17,7 @@ CS3140 "works", pass all tests at 1400MB/s using [Thunderbolt2](https://en.wikip
 also works directly to Motherboard PCIe. </br>
 
 something got damaged, but Not a total damage. </br>
+external case / RTL9210 controller has No problem with other Higher efficiency drives. </br>
 
 IF you live outside USA or EU, forget about the warranty, you lost the money. </br>
 
